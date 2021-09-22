@@ -1,0 +1,10 @@
+gensim==4.0.1
+nltk==3.6.2
+PIL==8.3.1
+numpy==1.20.0
+torch==1.8.1
+matplotlib==3.4.2
+argparse==1.1
+torchvision==0.9.1
+re==2.2.1
+python==3.8.5
